@@ -12,4 +12,4 @@ This is WhatsApp Code:
 
 6) Adding 30 Second Status feature
 
-7) Adding group feature which allow 100 people interact together
+7) Adding group feature which allow 200 people interact together

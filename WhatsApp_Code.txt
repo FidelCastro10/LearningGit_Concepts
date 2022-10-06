@@ -9,3 +9,5 @@ This is WhatsApp Code:
 4) Adding Audio Call
 
 5) Adding Video Call
+
+6) Adding 30 Second Status feature

@@ -2,7 +2,7 @@ This is WhatsApp Code:
 
 1) Chat
 
-2) Media Sharing (Photo, Video)
+2) Media Sharing (Photo, Video, Documents)
 
 3) Profil Picture Setup Screen
 

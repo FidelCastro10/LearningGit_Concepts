@@ -5,3 +5,7 @@ This is WhatsApp Code:
 2) Media Sharing (Photo, Video)
 
 3) Profil Picture Setup Screen
+
+4) Adding Audio Call
+
+5) Adding Video Call
